@@ -1,0 +1,125 @@
+No,Nama,Alamat,RT/RW,StatusLahan,StatusBangunan,JenisLantai,JenisDinding,JenisAtap,SumberAir,SumberPenerangan,BahanBakuMemasak,JenisKloset,JenisKendaraan,AsetPribadi,TelponRumah,Wifi,StatusPKH
+1,"""JA'I""",Gg. Sinar Pagi I No 01,01-Mar,Pribadi,Pribadi,Vinyl,Bata Merah,Tanah Liat,PDAM,Listrik,Gas,Kloset Duduk,Mobil,Tanah,Ya,Ya,0
+2,"""MA'RUF""",Gg. Sinar Pagi I No 02,01-Mar,Pribadi,Warisan,Keramik,Batako,Tanah Liat,Sanyo,Listrik,Kompor Minyak,Kloset Duduk,Motor,Tidak Ada,Tidak,Tidak,0
+3,"""SARI'AH""",Gg. Sinar Pagi I No 03,01-Mar,Warisan,Umum,Semen,Hebel,Asbes,Sumur,Listrik,Tungku,Kloset Jongkok,Sepeda,Sawah,Tidak,Tidak,1
+4,A NAZARUDDIN LATIF,Gg. Sinar Pagi I No 04,01-Mar,Negara,Pribadi,Keramik,Kayu,Asbes,PDAM,Lainnya,Gas,Kloset Jongkok,Angkutan Umum,Tidak Ada,Tidak,Tidak,1
+5,AA SUGIANA,Gg. Sinar Pagi I No 05,01-Mar,Pribadi,Warisan,Teraso,GRC,Seng,Sanyo,Listrik,Gas,Kloset Jongkok,Motor,Tidak Ada,Tidak,Tidak,0
+6,AAH SUTIANI,Gg. Sinar Pagi I No 06,01-Mar,Warisan,Umum,Semen,Bata Merah,Tanah Liat,Sumur,Listrik,Gas,Kloset Jongkok,Sepeda,Tidak Ada,Tidak,Ya,1
+7,AAN ARYANA,Gg. Sinar Pagi I No 07,01-Mar,Negara,Pribadi,Semen,Bata Merah,Asbes,PDAM,Listrik,Gas,Kloset Jongkok,Angkutan Umum,Tidak Ada,Tidak,Tidak,1
+8,AAN LESMANAWATI,Gg. Sinar Pagi I No 08,01-Mar,Pribadi,Warisan,Vinyl,Hebel,Asbes,Sanyo,Listrik,Gas,Kloset Jongkok,Motor,Tidak Ada,Tidak,Tidak,0
+9,AAN MARIANA,Gg. Sinar Pagi I No 09,01-Mar,Pribadi,Umum,Semen,Hebel,Seng,Sumur,Listrik,Gas,Kloset Jongkok,Sepeda,Tidak Ada,Tidak,Tidak,1
+10,AANG KUSAERI,Gg. Sinar Pagi I No 10,01-Mar,Pribadi,Pribadi,Keramik,Batako,Tanah Liat,Sanyo,Listrik,Gas,Kloset Jongkok,Angkutan Umum,Tidak Ada,Tidak,Tidak,0
+11,ABD ROHMAN,Gg. Sinar Pagi I No 11,01-Mar,Warisan,Warisan,Keramik,Batako,Tanah Liat,Sumur,Listrik,Gas,Kloset Jongkok,Motor,Tidak Ada,Tidak,Tidak,0
+12,ABDUL AZIS,Gg. Sinar Pagi I No 12,01-Mar,Negara,Umum,Teraso,Bata Merah,Tanah Liat,PDAM,Listrik,Gas,Kloset Jongkok,Sepeda,Tidak Ada,Tidak,Tidak,0
+13,ABDUL GOPUR,Gg. Sinar Pagi I No 13,01-Mar,Pribadi,Pribadi,Keramik,Batako,Tanah Liat,Sanyo,Lainnya,Gas,Kloset Jongkok,Angkutan Umum,Tidak Ada,Tidak,Tidak,0
+14,ABDUL KOSIM,Gg. Sinar Pagi I No 14,01-Mar,Warisan,Warisan,Teraso,Hebel,Asbes,Sumur,Listrik,Gas,Kloset Jongkok,Angkutan Umum,Tidak Ada,Tidak,Tidak,0
+15,ABDUL MANAP,Gg. Sinar Pagi I No 15,01-Mar,Negara,Umum,Vinyl,Kayu,Tanah Liat,PDAM,Listrik,Gas,Kloset Jongkok,Motor,Tidak Ada,Tidak,Tidak,1
+16,ABDUL RAHMAN,Gg. Sinar Pagi I No 16,01-Mar,Pribadi,Pribadi,Keramik,GRC,Tanah Liat,Sanyo,Listrik,Gas,Kloset Jongkok,Sepeda,Tidak Ada,Tidak,Tidak,0
+17,ABDULLAH,Gg. Sinar Pagi I No 17,01-Mar,Warisan,Warisan,Keramik,Bata Merah,Tanah Liat,Sumur,Listrik,Gas,Kloset Jongkok,Angkutan Umum,Tidak Ada,Tidak,Tidak,1
+18,ABDURACHMAN,Gg. Sinar Pagi I No 18,01-Mar,Negara,Pribadi,Keramik,Bata Merah,Asbes,Sanyo,Listrik,Gas,Kloset Jongkok,Motor,Tanah,Tidak,Tidak,0
+19,ABDURACHMAN,Gg. Sinar Pagi I No 19,01-Mar,Pribadi,Warisan,Keramik,Hebel,Tanah Liat,Sumur,Listrik,Gas,Kloset Jongkok,Sepeda,Tidak Ada,Tidak,Tidak,0
+20,ABRAHAM,Gg. Sinar Pagi I No 20,01-Mar,Warisan,Umum,Keramik,Hebel,Tanah Liat,PDAM,Listrik,Kompor Minyak,Kloset Jongkok,Angkutan Umum,Tidak Ada,Tidak,Tidak,0
+21,ACHMAD RIFAI,Gg. Sinar Pagi I No 21,01-Mar,Negara,Pribadi,Semen,Batako,Asbes,Sanyo,Listrik,Tungku,Kloset Jongkok,Motor,Tidak Ada,Tidak,Tidak,1
+22,ACHMAD SUDRAJAT,Gg. Sinar Pagi I No 22,01-Mar,Pribadi,Warisan,Teraso,Bata Merah,Tanah Liat,PDAM,Listrik,Gas,Kloset Duduk,Mobil,Rumah,Tidak,Tidak,0
+23,ACHMAD SYARIF,Gg. Sinar Pagi I No 23,01-Mar,Warisan,Umum,Keramik,Bata Merah,Seng,PDAM,Listrik,Gas,Kloset Jongkok,Angkutan Umum,Tidak Ada,Tidak,Tidak,1
+24,ACHMAD TAUFIK,Gg. Sinar Pagi I No 24,01-Mar,Negara,Pribadi,Keramik,Bata Merah,Tanah Liat,Sanyo,Listrik,Gas,Kloset Jongkok,Motor,Tidak Ada,Tidak,Tidak,0
+25,ACIH,Gg. Sinar Pagi I No 25,01-Mar,Pribadi,Warisan,Keramik,Hebel,Asbes,Sumur,Listrik,Gas,Kloset Jongkok,Sepeda,Tidak Ada,Tidak,Tidak,0
+26,ACIH SUNTACI,Gg. Sinar Pagi I No 26,01-Mar,Warisan,Umum,Semen,Hebel,Asbes,Sanyo,Listrik,Gas,Kloset Jongkok,Angkutan Umum,Tidak Ada,Tidak,Tidak,1
+27,ADANG SUNANDAR,Gg. Sinar Pagi I No 27,01-Mar,Pribadi,Pribadi,Vinyl,Batako,Seng,Sumur,Lainnya,Gas,Kloset Jongkok,Motor,Tidak Ada,Tidak,Tidak,0
+28,ADE LUKMAN,Gg. Sinar Pagi I No 28,01-Mar,Warisan,Warisan,Keramik,Batako,Tanah Liat,PDAM,Listrik,Gas,Kloset Jongkok,Sepeda,Tidak Ada,Tidak,Tidak,0
+29,ADE SURYANI,Gg. Sinar Pagi I No 29,01-Mar,Negara,Umum,Vinyl,Bata Merah,Tanah Liat,Sanyo,Listrik,Gas,Kloset Jongkok,Angkutan Umum,Tidak Ada,Tidak,Tidak,1
+30,ADHITYA WARMAN,Gg. Sinar Pagi I No 30,01-Mar,Pribadi,Pribadi,Keramik,Batako,Tanah Liat,Sumur,Listrik,Gas,Kloset Jongkok,Motor,Tidak Ada,Tidak,Ya,0
+31,ADI APRIYANTO,Gg. Sinar Pagi I No 31,01-Mar,Warisan,Warisan,Keramik,Hebel,Tanah Liat,PDAM,Listrik,Gas,Kloset Jongkok,Sepeda,Tidak Ada,Tidak,Tidak,0
+32,ADI FEBRIADI,Gg. Sinar Pagi I No 32,01-Mar,Warisan,Umum,Keramik,Kayu,Asbes,Sanyo,Listrik,Gas,Kloset Jongkok,Angkutan Umum,Sawah,Tidak,Tidak,1
+33,ADI SUKIRMAN,Gg. Sinar Pagi I No 33,01-Mar,Negara,Pribadi,Keramik,GRC,Tanah Liat,Sumur,Listrik,Gas,Kloset Jongkok,Angkutan Umum,Tidak Ada,Tidak,Tidak,1
+34,AEN MISHAENY,Gg. Sinar Pagi I No 34,01-Mar,Pribadi,Warisan,Keramik,Bata Merah,Tanah Liat,PDAM,Listrik,Gas,Kloset Jongkok,Motor,Tidak Ada,Tidak,Tidak,0
+35,AFIV LUKMANUL HAKIM,Gg. Sinar Pagi I No 35,01-Mar,Pribadi,Pribadi,Semen,Bata Merah,Tanah Liat,Sanyo,Listrik,Gas,Kloset Jongkok,Sepeda,Tidak Ada,Tidak,Tidak,0
+36,AGUNG KOKO HARMOKO,Gg. Sinar Pagi I No 36,01-Mar,Warisan,Warisan,Semen,Hebel,Asbes,Sumur,Listrik,Gas,Kloset Jongkok,Angkutan Umum,Tidak Ada,Tidak,Tidak,1
+37,AGUNG PETAPA AZNAR KAMEIL,Gg. Sinar Pagi I No 37,01-Mar,Negara,Umum,Keramik,Hebel,Tanah Liat,PDAM,Listrik,Kompor Minyak,Kloset Jongkok,Motor,Tidak Ada,Tidak,Tidak,0
+38,AGUS BUDI SUMANTO,Gg. Sinar Pagi I No 38,01-Mar,Pribadi,Pribadi,Keramik,Batako,Asbes,Sanyo,Listrik,Gas,Kloset Jongkok,Sepeda,Tidak Ada,Tidak,Tidak,0
+39,AGUS DAMAYANA,Gg. Sinar Pagi I No 39,01-Mar,Warisan,Warisan,Keramik,Batako,Asbes,Sumur,Listrik,Tungku,Kloset Jongkok,Angkutan Umum,Tidak Ada,Tidak,Tidak,1
+40,AGUS GUNAWAN,Gg. Sinar Pagi I No 40,01-Mar,Negara,Umum,Semen,Hebel,Seng,Sanyo,Listrik,Gas,Kloset Jongkok,Angkutan Umum,Tidak Ada,Tidak,Tidak,1
+41,AGUS MULYANA PUTRA SETIAWAN,Gg. Sinar Pagi II No 010,02-Mar,Pribadi,Pribadi,Vinyl,Hebel,Tanah Liat,Sumur,Listrik,Gas,Kloset Jongkok,Angkutan Umum,Rumah,Ya,Tidak,0
+42,AGUS NURAHMAN,Gg. Sinar Pagi II No 011,02-Mar,Warisan,Warisan,Keramik,Batako,Tanah Liat,PDAM,Listrik,Gas,Kloset Jongkok,Motor,Tidak Ada,Tidak,Tidak,0
+43,AGUS NUROCHMAN FIRMANSYAH,Gg. Sinar Pagi II No 012,02-Mar,Negara,Umum,Keramik,Batako,Tanah Liat,Sanyo,Listrik,Gas,Kloset Jongkok,Sepeda,Tidak Ada,Tidak,Tidak,0
+44,AGUS PRANATA,Gg. Sinar Pagi II No 013,02-Mar,Pribadi,Pribadi,Keramik,Bata Merah,Tanah Liat,PDAM,Listrik,Gas,Kloset Jongkok,Angkutan Umum,Tidak Ada,Tidak,Tidak,0
+45,AGUS RACHMAN,Gg. Sinar Pagi II No 014,02-Mar,Warisan,Warisan,Semen,Batako,Asbes,Sanyo,Listrik,Gas,Kloset Jongkok,Motor,Rumah,Ya,Tidak,0
+46,AGUS SUGIANTO,Gg. Sinar Pagi II No 015,02-Mar,Negara,Umum,Teraso,Hebel,Tanah Liat,Sumur,Listrik,Gas,Kloset Jongkok,Sepeda,Tidak Ada,Tidak,Tidak,0
+47,AGUSTINI,Gg. Sinar Pagi II No 016,02-Mar,Pribadi,Pribadi,Keramik,Kayu,Tanah Liat,PDAM,Listrik,Gas,Kloset Jongkok,Angkutan Umum,Tidak Ada,Tidak,Tidak,0
+48,AHAN SUBIHAN,Gg. Sinar Pagi II No 017,02-Mar,Warisan,Warisan,Keramik,GRC,Tanah Liat,Sanyo,Listrik,Kompor Minyak,Kloset Jongkok,Motor,Tidak Ada,Tidak,Tidak,0
+49,AHMAD BASARI,Gg. Sinar Pagi II No 018,02-Mar,Pribadi,Umum,Teraso,Bata Merah,Asbes,Sumur,Listrik,Gas,Kloset Jongkok,Sepeda,Tidak Ada,Tidak,Tidak,0
+50,AHMAD FARIS MAULANA,Gg. Sinar Pagi II No 019,02-Mar,Warisan,Pribadi,Semen,Bata Merah,Tanah Liat,PDAM,Listrik,Gas,Kloset Jongkok,Angkutan Umum,Tidak Ada,Tidak,Tidak,0
+51,AHMAD GUSTI FERDIANDI,Gg. Sinar Pagi II No 020,02-Mar,Negara,Warisan,Vinyl,Hebel,Tanah Liat,Sanyo,Lainnya,Gas,Kloset Jongkok,Motor,Tidak Ada,Tidak,Tidak,0
+52,AHMAD MURHAJI,Gg. Sinar Pagi II No 021,02-Mar,Pribadi,Pribadi,Keramik,Hebel,Asbes,Sumur,Listrik,Gas,Kloset Jongkok,Sepeda,Tidak Ada,Tidak,Tidak,0
+53,AHMAD ROSANDI,Gg. Sinar Pagi II No 022,02-Mar,Warisan,Warisan,Vinyl,Batako,Asbes,Sanyo,Listrik,Kompor Minyak,Kloset Jongkok,Angkutan Umum,Tidak Ada,Tidak,Tidak,1
+54,AHMAD SALIM,Gg. Sinar Pagi II No 023,02-Mar,Negara,Umum,Keramik,Batako,Seng,PDAM,Listrik,Gas,Kloset Jongkok,Motor,Tidak Ada,Tidak,Tidak,0
+55,AHMAD TIGOR KSO,Gg. Sinar Pagi II No 024,02-Mar,Pribadi,Pribadi,Keramik,Bata Merah,Tanah Liat,Sanyo,Listrik,Gas,Kloset Jongkok,Sepeda,Tidak Ada,Tidak,Tidak,0
+56,AHMAD YANI,Gg. Sinar Pagi II No 025,02-Mar,Warisan,Warisan,Keramik,Bata Merah,Asbes,Sumur,Listrik,Gas,Kloset Jongkok,Angkutan Umum,Tidak Ada,Tidak,Tidak,1
+57,AHMAD ZAJULI,Gg. Sinar Pagi II No 026,02-Mar,Negara,Umum,Teraso,Hebel,Asbes,Sanyo,Listrik,Gas,Kloset Jongkok,Motor,Tanah,Ya,Tidak,0
+58,AI NURHAYATI,Gg. Sinar Pagi II No 027,02-Mar,Pribadi,Pribadi,Keramik,Hebel,Seng,Sumur,Listrik,Gas,Kloset Jongkok,Sepeda,Tidak Ada,Tidak,Tidak,0
+59,AIDA LONA,Gg. Sinar Pagi II No 028,02-Mar,Warisan,Warisan,Semen,Batako,Tanah Liat,PDAM,Listrik,Gas,Kloset Jongkok,Angkutan Umum,Tidak Ada,Tidak,Tidak,0
+60,AIS SUPRIADI,Gg. Sinar Pagi II No 029,02-Mar,Negara,Umum,Semen,Batako,Tanah Liat,Sanyo,Listrik,Gas,Kloset Jongkok,Motor,Tidak Ada,Tidak,Tidak,1
+61,AJENG PRATIWI,Gg. Sinar Pagi II No 030,02-Mar,Pribadi,Pribadi,Keramik,Bata Merah,Tanah Liat,PDAM,Listrik,Gas,Kloset Jongkok,Sepeda,Tidak Ada,Tidak,Tidak,0
+62,AJI ZAKARIA,Gg. Sinar Pagi II No 031,02-Mar,Warisan,Warisan,Keramik,Batako,Tanah Liat,Sanyo,Listrik,Gas,Kloset Jongkok,Angkutan Umum,Tidak Ada,Tidak,Tidak,0
+63,AKMAD,Gg. Sinar Pagi II No 032,02-Mar,Negara,Umum,Keramik,Hebel,Asbes,Sumur,Listrik,Gas,Kloset Jongkok,Motor,Tidak Ada,Tidak,Tidak,0
+64,AKMADI,Gg. Sinar Pagi II No 033,02-Mar,Pribadi,Pribadi,Semen,Kayu,Tanah Liat,Sanyo,Listrik,Gas,Kloset Jongkok,Sepeda,Tidak Ada,Tidak,Ya,0
+65,AL MAIDAH,Gg. Sinar Pagi II No 034,02-Mar,Warisan,Warisan,Vinyl,GRC,Tanah Liat,Sumur,Listrik,Gas,Kloset Jongkok,Angkutan Umum,Tidak Ada,Tidak,Tidak,1
+66,ALAM,Gg. Sinar Pagi II No 035,02-Mar,Pribadi,Umum,Keramik,Bata Merah,Tanah Liat,PDAM,Listrik,Gas,Kloset Jongkok,Angkutan Umum,Tidak Ada,Tidak,Tidak,0
+67,ALFIAN,Gg. Sinar Pagi II No 036,02-Mar,Warisan,Pribadi,Keramik,Bata Merah,Asbes,Sanyo,Listrik,Gas,Kloset Jongkok,Motor,Tidak Ada,Tidak,Tidak,0
+68,ALI MASHUDI,Gg. Sinar Pagi II No 037,02-Mar,Pribadi,Warisan,Keramik,Hebel,Asbes,Sumur,Lainnya,Gas,Kloset Jongkok,Sepeda,Tidak Ada,Tidak,Tidak,0
+69,ALI ROMLI,Gg. Sinar Pagi II No 038,02-Mar,Warisan,Pribadi,Semen,Hebel,Tanah Liat,Sanyo,Listrik,Gas,Kloset Jongkok,Angkutan Umum,Tidak Ada,Tidak,Tidak,0
+70,ALIAH AGUSTINA,Gg. Sinar Pagi II No 039,02-Mar,Negara,Umum,Semen,Batako,Tanah Liat,PDAM,Listrik,Gas,Kloset Jongkok,Motor,Tidak Ada,Tidak,Tidak,0
+71,ALIM MURYANTO,Gg. Sinar Pagi III No 120,03-Mar,Pribadi,Umum,Keramik,Batako,Tanah Liat,Sanyo,Listrik,Kompor Minyak,Kloset Jongkok,Sepeda,Tidak Ada,Tidak,Ya,0
+72,ALIYAH YULIATI,Gg. Sinar Pagi III No 121,03-Mar,Warisan,Pribadi,Semen,Hebel,Asbes,Sumur,Listrik,Gas,Kloset Jongkok,Angkutan Umum,Tidak Ada,Tidak,Tidak,1
+73,AMELIYAH,Gg. Sinar Pagi III No 122,03-Mar,Negara,Warisan,Vinyl,Hebel,Tanah Liat,Sanyo,Listrik,Gas,Kloset Jongkok,Angkutan Umum,Tidak Ada,Tidak,Tidak,0
+74,AMINAH,Gg. Sinar Pagi III No 123,03-Mar,Pribadi,Umum,Keramik,Batako,Asbes,Sumur,Listrik,Gas,Kloset Jongkok,Angkutan Umum,Tidak Ada,Tidak,Tidak,1
+75,AMINAH,Gg. Sinar Pagi III No 124,03-Mar,Warisan,Pribadi,Vinyl,Batako,Asbes,PDAM,Listrik,Gas,Kloset Jongkok,Motor,Rumah,Ya,Ya,0
+76,AMINAH,Gg. Sinar Pagi III No 125,03-Mar,Negara,Warisan,Keramik,Bata Merah,Seng,Sanyo,Listrik,Gas,Kloset Jongkok,Sepeda,Tidak Ada,Tidak,Tidak,1
+77,AMINAH,Gg. Sinar Pagi III No 126,03-Mar,Pribadi,Umum,Keramik,Batako,Tanah Liat,PDAM,Listrik,Gas,Kloset Jongkok,Angkutan Umum,Tidak Ada,Tidak,Tidak,0
+78,AMING MIRDJA,Gg. Sinar Pagi III No 127,03-Mar,Warisan,Pribadi,Keramik,Hebel,Tanah Liat,Sanyo,Listrik,Gas,Kloset Jongkok,Motor,Tidak Ada,Tidak,Tidak,0
+79,ANA,Gg. Sinar Pagi III No 128,03-Mar,Negara,Warisan,Keramik,Kayu,Tanah Liat,Sumur,Listrik,Gas,Kloset Jongkok,Sepeda,Tidak Ada,Tidak,Tidak,1
+80,ANA KAEROH,Gg. Sinar Pagi III No 129,03-Mar,Pribadi,Umum,Keramik,GRC,Tanah Liat,PDAM,Listrik,Gas,Kloset Jongkok,Angkutan Umum,Tidak Ada,Tidak,Tidak,0
+81,ANAH,Gg. Sinar Pagi III No 130,03-Mar,Warisan,Pribadi,Semen,Bata Merah,Asbes,Sanyo,Listrik,Gas,Kloset Jongkok,Angkutan Umum,Tidak Ada,Tidak,Tidak,1
+82,ANAH,Gg. Sinar Pagi III No 131,03-Mar,Negara,Warisan,Semen,Bata Merah,Tanah Liat,Sumur,Listrik,Gas,Kloset Jongkok,Motor,Tidak Ada,Tidak,Tidak,1
+83,ANAH NURHASANAH,Gg. Sinar Pagi III No 132,03-Mar,Pribadi,Umum,Keramik,Hebel,Tanah Liat,PDAM,Listrik,Kompor Minyak,Kloset Jongkok,Sepeda,Tidak Ada,Tidak,Tidak,0
+84,ANANG MAULLANA ISHAQ,Gg. Sinar Pagi III No 133,03-Mar,Warisan,Pribadi,Keramik,Hebel,Tanah Liat,Sanyo,Listrik,Gas,Kloset Jongkok,Angkutan Umum,Tidak Ada,Tidak,Tidak,0
+85,ANDI JUPRI,Gg. Sinar Pagi III No 134,03-Mar,Pribadi,Warisan,Teraso,Batako,Asbes,Sumur,Listrik,Kompor Minyak,Kloset Jongkok,Motor,Sawah,Ya,Ya,0
+86,ANDI PERMANA,Gg. Sinar Pagi III No 135,03-Mar,Warisan,Pribadi,Semen,Batako,Tanah Liat,PDAM,Listrik,Tungku,Kloset Jongkok,Sepeda,Tidak Ada,Tidak,Tidak,0
+87,ANDI PRAYITNO,Gg. Sinar Pagi III No 136,03-Mar,Negara,Warisan,Vinyl,Bata Merah,Tanah Liat,Sanyo,Listrik,Gas,Kloset Jongkok,Angkutan Umum,Tidak Ada,Tidak,Tidak,1
+88,ANDIKA FEBBY PRABOWO,Gg. Sinar Pagi III No 137,03-Mar,Pribadi,Umum,Teraso,Bata Merah,Asbes,Sumur,Listrik,Gas,Kloset Jongkok,Motor,Tidak Ada,Tidak,Tidak,0
+89,ANDIKA PRATAMA,Gg. Sinar Pagi III No 138,03-Mar,Pribadi,Pribadi,Keramik,Hebel,Asbes,Sanyo,Listrik,Gas,Kloset Jongkok,Sepeda,Tidak Ada,Tidak,Tidak,0
+90,ANDREYANTO,Gg. Sinar Pagi III No 139,03-Mar,Warisan,Warisan,Keramik,Hebel,Seng,Sumur,Listrik,Gas,Kloset Jongkok,Angkutan Umum,Tidak Ada,Tidak,Tidak,1
+91,ANDRI AFRYTAMA,Gg. Sinar Pagi III No 140,03-Mar,Negara,Umum,Teraso,Batako,Tanah Liat,Sanyo,Listrik,Gas,Kloset Jongkok,Angkutan Umum,Tidak Ada,Tidak,Tidak,0
+92,ANDRIATNO,Gg. Sinar Pagi III No 141,03-Mar,Pribadi,Pribadi,Semen,Batako,Asbes,Sumur,Listrik,Gas,Kloset Jongkok,Motor,Tidak Ada,Tidak,Tidak,0
+93,ANDRIYANI,Gg. Sinar Pagi III No 142,03-Mar,Warisan,Warisan,Keramik,Bata Merah,Asbes,PDAM,Listrik,Gas,Kloset Duduk,Sepeda,Tanah,Tidak,Ya,0
+94,ANDRIYANI,Gg. Sinar Pagi III No 143,03-Mar,Negara,Umum,Teraso,Batako,Seng,Sanyo,Listrik,Gas,Kloset Jongkok,Angkutan Umum,Tidak Ada,Tidak,Tidak,1
+95,ANGGA RAHMAN,Gg. Sinar Pagi III No 144,03-Mar,Pribadi,Pribadi,Keramik,Hebel,Tanah Liat,PDAM,Listrik,Gas,Kloset Jongkok,Motor,Tidak Ada,Tidak,Tidak,0
+96,ANGGA ROSANDI,Gg. Sinar Pagi III No 145,03-Mar,Warisan,Warisan,Semen,Kayu,Tanah Liat,Sanyo,Lainnya,Gas,Kloset Jongkok,Sepeda,Tidak Ada,Tidak,Tidak,1
+97,ANI NURAENI,Gg. Sinar Pagi III No 146,03-Mar,Negara,Umum,Vinyl,GRC,Tanah Liat,Sumur,Listrik,Gas,Kloset Jongkok,Angkutan Umum,Tidak Ada,Tidak,Tidak,1
+98,ANI SUMARNI,Gg. Sinar Pagi III No 147,03-Mar,Pribadi,Pribadi,Keramik,Bata Merah,Tanah Liat,PDAM,Listrik,Gas,Kloset Jongkok,Motor,Tidak Ada,Tidak,Tidak,0
+99,ANI TRIYANA,Gg. Sinar Pagi III No 148,03-Mar,Warisan,Warisan,Vinyl,Bata Merah,Asbes,Sanyo,Listrik,Gas,Kloset Jongkok,Sepeda,Tidak Ada,Tidak,Tidak,1
+100,ANIH,Gg. Sinar Pagi IV No 23,03-Mar,Negara,Umum,Keramik,Hebel,Tanah Liat,Sanyo,Listrik,Gas,Kloset Jongkok,Angkutan Umum,Tidak Ada,Tidak,Tidak,0
+101,ANIRAH,Gg. Sinar Pagi IV No 24,03-Apr,Warisan,Warisan,Semen,Bata Merah,Tanah Liat,PDAM,Listrik,Gas,Kloset Jongkok,Mobil,Tanah,Ya,Ya,0
+102,ANISA,Gg. Sinar Pagi IV No 25,03-Apr,Negara,Umum,Semen,Batako,Tanah Liat,Sanyo,Listrik,Kompor Minyak,Kloset Jongkok,Angkutan Umum,Sawah,Ya,Ya,0
+103,ANISAH,Gg. Sinar Pagi IV No 26,03-Apr,Pribadi,Pribadi,Vinyl,Hebel,Tanah Liat,Sumur,Listrik,Gas,Kloset Duduk,Motor,Tanah,Ya,Ya,0
+104,ANISAH,Gg. Sinar Pagi IV No 27,03-Apr,Warisan,Warisan,Semen,Kayu,Tanah Liat,PDAM,Listrik,Kompor Minyak,Kloset Jongkok,Sepeda,Tanah,Ya,Ya,0
+105,ANISAH,Gg. Sinar Pagi IV No 28,03-Apr,Negara,Umum,Keramik,GRC,Asbes,Sanyo,Listrik,Tungku,Kloset Jongkok,Angkutan Umum,Tidak Ada,Tidak,Tidak,1
+106,ANITA SEFTIANI,Gg. Sinar Pagi IV No 29,03-Apr,Pribadi,Pribadi,Keramik,Bata Merah,Tanah Liat,Sumur,Listrik,Gas,Kloset Jongkok,Motor,Tidak Ada,Tidak,Tidak,0
+107,ANNISA FARDILA SETIAWANTI HAKIM,Gg. Sinar Pagi IV No 30,03-Apr,Warisan,Warisan,Teraso,Bata Merah,Tanah Liat,PDAM,Listrik,Gas,Kloset Jongkok,Sepeda,Tidak Ada,Tidak,Tidak,0
+108,ANTI SURYAWINANTI,Gg. Sinar Pagi IV No 31,03-Apr,Pribadi,Pribadi,Keramik,Hebel,Tanah Liat,Sanyo,Listrik,Gas,Kloset Duduk,Angkutan Umum,Tidak Ada,Tidak,Tidak,0
+109,ANTI WIDIANINGRUM,Gg. Sinar Pagi IV No 32,03-Apr,Warisan,Warisan,Teraso,Hebel,Asbes,Sumur,Listrik,Gas,Kloset Jongkok,Motor,Tidak Ada,Tidak,Tidak,0
+110,ANTO,Gg. Sinar Pagi IV No 33,03-Apr,Negara,Umum,Vinyl,Batako,Tanah Liat,PDAM,Listrik,Gas,Kloset Jongkok,Sepeda,Tidak Ada,Tidak,Tidak,0
+111,ANTONIUS TRIRAHARJO,Gg. Sinar Pagi IV No 34,03-Apr,Pribadi,Pribadi,Keramik,Batako,Asbes,Sanyo,Listrik,Gas,Kloset Jongkok,Angkutan Umum,Tidak Ada,Tidak,Tidak,0
+112,ANUGRAH BUDI SURYA,Gg. Sinar Pagi V No 12,03-Apr,Pribadi,Pribadi,Keramik,Bata Merah,Asbes,Sumur,Listrik,Gas,Kloset Jongkok,Angkutan Umum,Tidak Ada,Tidak,Tidak,0
+113,APID PERMANA,Gg. Sinar Pagi V No 13,03-Apr,Warisan,Warisan,Keramik,Bata Merah,Seng,Sanyo,Listrik,Gas,Kloset Duduk,Motor,Tidak Ada,Tidak,Tidak,0
+114,APRI HANDAYANI,Gg. Sinar Pagi V No 14,03-Apr,Negara,Umum,Keramik,Hebel,Tanah Liat,Sumur,Listrik,Gas,Kloset Duduk,Sepeda,Tidak Ada,Tidak,Tidak,0
+115,APUDIN,Gg. Sinar Pagi V No 15,03-Apr,Negara,Umum,Keramik,Hebel,Tanah Liat,Sanyo,Listrik,Gas,Kloset Duduk,Motor,Tidak Ada,Tidak,Tidak,0
+116,ARDI SUKARDI,Gg. Sinar Pagi V No 16,03-Apr,Warisan,Warisan,Semen,Bata Merah,Tanah Liat,Sumur,Listrik,Gas,Kloset Jongkok,Sepeda,Tidak Ada,Tidak,Tidak,1
+117,ARDIYANTO,Gg. Sinar Pagi V No 17,03-Apr,Negara,Umum,Teraso,Hebel,Tanah Liat,PDAM,Listrik,Gas,Kloset Jongkok,Motor,Tidak Ada,Tidak,Tidak,0
+118,ARI KURNIAWAN,Gg. Sinar Pagi V No 18,03-Apr,Pribadi,Pribadi,Keramik,Bata Merah,Asbes,Sanyo,Listrik,Gas,Kloset Jongkok,Mobil,Tidak Ada,Tidak,Tidak,0
+119,ARI SUNANDAR,Gg. Sinar Pagi V No 19,03-Apr,Warisan,Warisan,Vinyl,Batako,Tanah Liat,Sanyo,Listrik,Gas,Kloset Jongkok,Motor,Tidak Ada,Tidak,Tidak,0
+120,ARIE PERMANA,Gg. Sinar Pagi V No 20,03-Apr,Negara,Umum,Keramik,Hebel,Asbes,Sanyo,Listrik,Gas,Kloset Duduk,Motor,Tidak Ada,Tidak,Tidak,0
+121,ARIE WIBOWO,Gg. Sinar Pagi V No 21,03-Apr,Pribadi,Pribadi,Vinyl,Kayu,Tanah Liat,PDAM,Listrik,Gas,Kloset Jongkok,Motor,Tidak Ada,Tidak,Tidak,0
+122,ARIEF RAHMAN SANTOSO,Gg. Sinar Pagi V No 22,03-Apr,Warisan,Warisan,Keramik,GRC,Tanah Liat,Sanyo,Listrik,Gas,Kloset Jongkok,Motor,Tidak Ada,Tidak,Tidak,0
+123,ARIEF RAHMANSYAH,Gg. Sinar Pagi V No 23,03-Apr,Pribadi,Pribadi,Semen,Batako,Tanah Liat,Sumur,Listrik,Gas,Kloset Jongkok,Motor,Tidak Ada,Tidak,Tidak,0
+124,ARIES SENTANA,Gg. Sinar Pagi V No 24,03-Apr,Warisan,Warisan,Semen,Bata Merah,Tanah Liat,PDAM,Listrik,Gas,Kloset Jongkok,Motor,Tidak Ada,Tidak,Tidak,0
