@@ -1,0 +1,23 @@
+Flask==2.3.2
+Flask-Session==0.4.0
+Flask-SQLAlchemy==3.0.0
+scikit-learn==1.3.1
+matplotlib==3.7.3
+pymysql==1.0.3
+numpy==1.24.3
+python-dotenv==1.0.0
+
+# flask
+# flask_session
+# sklearn.model_selection
+# sklearn.preprocessing
+# sklearn.metrics
+# train_perceptron_manual
+# flask_sqlalchemy
+
+# matplotlib
+# pickle
+# numpy
+# pymysql
+# os
+# csv

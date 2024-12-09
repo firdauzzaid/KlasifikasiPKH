@@ -1,19 +1,23 @@
-import matplotlib.pyplot as plt
 from flask import Flask, render_template, request, redirect, url_for, flash, session, jsonify
 from flask_session import Session
 from sklearn.model_selection import train_test_split
 from sklearn.preprocessing import MinMaxScaler
 from sklearn.metrics import accuracy_score, confusion_matrix
 from train_perceptron_manual import PerceptronManual
+from flask_sqlalchemy import SQLAlchemy
+from dotenv import load_dotenv
 
+import matplotlib.pyplot as plt
 import pickle
 import numpy as np
 import pymysql
 import os
 import csv
-
 import matplotlib
+
+
 matplotlib.use('Agg')
+load_dotenv()
 
 app = Flask(__name__)
 
@@ -23,8 +27,9 @@ app.secret_key = 'secret_key'
 
 # Inisialisasi sesi
 Session(app)
+
 # Inisialisasi sesi upload file
-app.config['FILE_UPLOADS'] = "C:\\Zhafron Firdaus\\Project\\FOLDER CD\\Program\\my_flask_app\\static\\assets\\uploads"
+app.config['FILE_UPLOADS'] = "static\\assets\\uploads"
 
 ALLOWED_EXTENSIONS = {'csv'}
 
@@ -35,6 +40,11 @@ db = pymysql.connect(
     password="",
     database="klasifikasipkh"
 )
+
+app.secret_key = os.getenv('SECRET_KEY')
+
+app.config['SQLALCHEMY_DATABASE_URI'] = os.getenv('DATABASE_URL')
+db = SQLAlchemy(app)
 
 # Interaksi dengan database digunakan untuk menjalankan pernyataan SQL dan mengambil hasilnya dari database
 cursor = db.cursor()
