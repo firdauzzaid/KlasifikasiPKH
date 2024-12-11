@@ -5,7 +5,6 @@ from sklearn.preprocessing import MinMaxScaler
 from sklearn.metrics import accuracy_score, confusion_matrix
 from train_perceptron_manual import PerceptronManual
 from flask_sqlalchemy import SQLAlchemy
-from dotenv import load_dotenv
 
 import matplotlib.pyplot as plt
 import pickle
@@ -17,7 +16,6 @@ import matplotlib
 
 
 matplotlib.use('Agg')
-load_dotenv()
 
 app = Flask(__name__)
 
@@ -43,8 +41,8 @@ db = pymysql.connect(
 
 app.secret_key = os.getenv('SECRET_KEY')
 
-app.config['SQLALCHEMY_DATABASE_URI'] = os.getenv('DATABASE_URL')
-db = SQLAlchemy(app)
+# app.config['SQLALCHEMY_DATABASE_URI'] = os.getenv('DATABASE_URL')
+# db = SQLAlchemy(app)
 
 # Interaksi dengan database digunakan untuk menjalankan pernyataan SQL dan mengambil hasilnya dari database
 cursor = db.cursor()

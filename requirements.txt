@@ -5,21 +5,6 @@ scikit-learn
 matplotlib
 pymysql
 numpy
-python-dotenv
+# python-dotenv
 gunicorn
 pandas
-
-# flask
-# flask_session
-# sklearn.model_selection
-# sklearn.preprocessing
-# sklearn.metrics
-# train_perceptron_manual
-# flask_sqlalchemy
-
-# matplotlib
-# pickle
-# numpy
-# pymysql
-# os
-# csv
