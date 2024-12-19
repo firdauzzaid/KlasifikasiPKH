@@ -6,7 +6,6 @@ from sklearn.metrics import accuracy_score, confusion_matrix
 from train_perceptron_manual import PerceptronManual
 from flask_sqlalchemy import SQLAlchemy
 
-import matplotlib.pyplot as plt
 import pickle
 import numpy as np
 import pymysql

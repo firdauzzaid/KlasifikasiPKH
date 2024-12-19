@@ -2,7 +2,6 @@ Flask
 Flask-Session
 Flask-SQLAlchemy
 scikit-learn
-matplotlib
 pymysql
 numpy
 python-dotenv
