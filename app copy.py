@@ -14,12 +14,6 @@ import os
 import csv
 import matplotlib
 
-# Tambahkan ini untuk membaca .env
-from dotenv import load_dotenv 
-# Muat variabel lingkungan dari file .env
-load_dotenv()
-
-############################################################################### INITIALITATION ###############################################################################
 
 matplotlib.use('Agg')
 

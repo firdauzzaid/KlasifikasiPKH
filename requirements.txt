@@ -5,6 +5,6 @@ scikit-learn
 matplotlib
 pymysql
 numpy
-# python-dotenv
+python-dotenv
 gunicorn
 pandas
