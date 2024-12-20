@@ -6,6 +6,7 @@ from sklearn.metrics import accuracy_score, confusion_matrix
 from train_perceptron_manual import PerceptronManual
 from flask_sqlalchemy import SQLAlchemy
 
+import matplotlib as plt
 import pickle
 import numpy as np
 import pymysql
@@ -55,18 +56,6 @@ def get_db_connection():
         port=int(os.getenv('DB_PORT', 3306)),  # Port default MySQL
         connect_timeout=10
     )
-
-# Lifecycle: Handle koneksi database
-@app.before_request
-def before_request():
-    g.db = get_db_connection()
-    g.cursor = g.db.cursor()
-
-@app.teardown_appcontext
-def teardown_db(exception):
-    db = g.pop('db', None)
-    if db is not None:
-        db.close()
 
 # Interaksi dengan database
 db = get_db_connection()
